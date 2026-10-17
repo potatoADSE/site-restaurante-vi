@@ -31,10 +31,10 @@ export default async function LocationPage() {
             title="Mapa do endereço do Tuna Mar e Terra em Mossoró"
             src={mapEmbed}
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="no-referrer-if-downgrade"
             allowFullScreen
           />
-          <p>Mapa de busca pelo endereço informado pelo restaurante.</p>
+          <p>Mapa de busca pelo endereço informado pelo restaurante. Use o botão abaixo para abrir no Google Maps e confirmar a rota.</p>
         </section>
 
         <div className="location-details">
