@@ -1,0 +1,444 @@
+{
+  "projeto": {
+    "nome": "Tuna Mar e Terra",
+    "slug": "tuna-mar-e-terra",
+    "tipo": "site institucional para restaurante",
+    "idioma_principal": "pt-BR",
+    "status_conteudo": "em desenvolvimento",
+    "objetivo": "Apresentar a identidade do restaurante, destacar a experiência gastronômica, facilitar o acesso ao cardápio e permitir contato e reservas pelo WhatsApp."
+  },
+  "negocio": {
+    "nome": "Tuna Mar e Terra",
+    "nome_exibicao": "Tuna Mar e Terra | Restaurante",
+    "categoria": "Restaurante autoral",
+    "slogan": "O encontro perfeito entre os sabores do mar e da terra.",
+    "descricao_seo": "Descubra o Tuna Mar e Terra, um restaurante autoral que une o melhor dos frutos do mar e das carnes em uma experiência gastronômica especial. Com pratos elaborados pelos chefs @chefwwill e @chefejufernandes, ambiente aconchegante, atendimento atencioso e música ao vivo, é o lugar ideal para reunir amigos e família, saborear bons drinks e aproveitar momentos inesquecíveis. Faça sua reserva e venha conhecer!",
+    "chefs": [
+      {
+        "nome_exibicao": "@chefwwill",
+        "instagram": "https://www.instagram.com/chefwwill/"
+      },
+      {
+        "nome_exibicao": "@chefejufernandes",
+        "instagram": "https://www.instagram.com/chefejufernandes/"
+      }
+    ],
+    "atributos_confirmados": [
+      "Restaurante autoral",
+      "Proposta gastronômica que combina frutos do mar e carnes",
+      "Ambiente aconchegante",
+      "Atendimento atencioso",
+      "Música ao vivo em ocasiões oferecidas pelo restaurante",
+      "Aceita reservas",
+      "Opções vegetarianas",
+      "Acessibilidade na entrada e em assentos para pessoas que usam cadeira de rodas",
+      "Estabelecimento identificado como pertencente a mulheres"
+    ],
+    "recursos_e_servicos_informados": [
+      "Mesas ao ar livre",
+      "Delivery",
+      "Atendimento no local",
+      "Retirada para viagem",
+      "Consumo no restaurante",
+      "Almoço",
+      "Jantar",
+      "Sobremesas",
+      "Atendimento para pessoas sozinhas, famílias e grupos",
+      "Música ao vivo",
+      "Transmissão ou acompanhamento de esportes",
+      "Bebidas alcoólicas",
+      "Destilados",
+      "Café",
+      "Cerveja",
+      "Coquetéis",
+      "Happy hour de bebidas",
+      "Happy hour de comidas",
+      "Pequenas porções",
+      "Sala privativa para refeições",
+      "Vinhos",
+      "Bar",
+      "Banheiro público",
+      "Wi-Fi gratuito",
+      "Ambiente casual, popular e tranquilo",
+      "Ambiente acolhedor para pessoas LGBTQ+ e seguro para pessoas trans",
+      "Adequado para crianças",
+      "Pagamento com cartões de crédito e débito",
+      "Pagamento por aproximação via celular",
+      "Vale-refeição",
+      "Ticket Restaurante",
+      "Várias vagas de estacionamento",
+      "Estacionamento gratuito na rua",
+      "Estacionamento gratuito"
+    ]
+  },
+  "contato": {
+    "telefone_exibicao": "+55 84 98170-6656",
+    "whatsapp": "+55 84 98170-6656",
+    "whatsapp_link": "https://wa.me/5584981706656",
+    "instagram_usuario": "@tunamareterra",
+    "instagram_url": "https://www.instagram.com/tunamareterra/",
+    "instrucoes": [
+      "Usar o mesmo número de WhatsApp em todos os botões de contato e reserva.",
+      "Criar links de WhatsApp com mensagens iniciais adequadas ao contexto, como reserva, dúvidas sobre o cardápio ou delivery.",
+      "Não inventar e-mail, telefone alternativo ou outros perfis sociais."
+    ]
+  },
+  "localizacao": {
+    "endereco": "R. Francisco Eudes, 26 - Nova Betânia, Mossoró - RN, 59607-430",
+    "cidade": "Mossoró",
+    "estado": "Rio Grande do Norte",
+    "pais": "Brasil",
+    "google_maps_url": "https://maps.app.goo.gl/kscL3wqvzmc9gQf47",
+    "usar_link_google_maps_em": [
+      "Página localização",
+      "Página sobre",
+      "Rodapé",
+      "Botões de como chegar"
+    ],
+    "instrucoes": [
+      "Manter o link fornecido pelo cliente sem substituí-lo por um endereço presumido.",
+      "Adicionar uma ação clara, como 'Ver no Google Maps' ou 'Como chegar'.",
+      "Não inventar coordenadas, distância, tempo de deslocamento ou pontos de referência."
+    ]
+  },
+  "horarios_funcionamento": [
+    {
+      "dia": "Terça-feira",
+      "abertura": "18:00",
+      "fechamento": "23:00"
+    },
+    {
+      "dia": "Quarta-feira",
+      "abertura": "18:00",
+      "fechamento": "23:00"
+    },
+    {
+      "dia": "Quinta-feira",
+      "abertura": "18:00",
+      "fechamento": "23:00"
+    },
+    {
+      "dia": "Sexta-feira",
+      "abertura": "18:00",
+      "fechamento": "23:00"
+    },
+    {
+      "dia": "Sábado",
+      "abertura": "11:00",
+      "fechamento": "23:00"
+    },
+    {
+      "dia": "Domingo",
+      "abertura": "11:00",
+      "fechamento": "15:00"
+    },
+    {
+      "dia": "Segunda-feira",
+      "status": "Fechado"
+    }
+  ],
+  "paginas": [
+    {
+      "nome": "Home",
+      "slug": "/",
+      "objetivo": "Apresentar a proposta do Tuna Mar e Terra, criar uma primeira impressão sofisticada e direcionar para cardápio, localização e reservas.",
+      "secoes_sugeridas": [
+        "Hero com fotografia gastronômica editorial",
+        "Apresentação do conceito mar e terra",
+        "Destaques da experiência",
+        "Apresentação dos chefs",
+        "Chamada para explorar o cardápio",
+        "Chamada para reservas",
+        "Localização e horários resumidos"
+      ]
+    },
+    {
+      "nome": "Cardápio",
+      "slug": "/cardapio",
+      "objetivo": "Exibir uma apresentação provisória e visualmente organizada das categorias gastronômicas, até que o restaurante forneça o cardápio oficial.",
+      "status_conteudo": "provisorio",
+      "secoes_sugeridas": [
+        "Entradas e pequenas porções",
+        "Frutos do mar",
+        "Carnes e grelhados",
+        "Pratos autorais mar e terra",
+        "Opções vegetarianas",
+        "Sobremesas",
+        "Drinks e bebidas"
+      ]
+    },
+    {
+      "nome": "Nosso Ambiente",
+      "slug": "/ambiente",
+      "objetivo": "Transmitir a atmosfera acolhedora, o cuidado com a experiência e os recursos do espaço.",
+      "secoes_sugeridas": [
+        "Galeria visual",
+        "Apresentação do ambiente",
+        "Mesas ao ar livre, quando aplicável",
+        "Música ao vivo e experiência social",
+        "Acessibilidade e informações úteis"
+      ]
+    },
+    {
+      "nome": "Sobre",
+      "slug": "/sobre",
+      "objetivo": "Apresentar o conceito do restaurante e os chefs sem criar fatos biográficos ou históricos que não tenham sido confirmados.",
+      "secoes_sugeridas": [
+        "O conceito Tuna Mar e Terra",
+        "A combinação entre frutos do mar e carnes",
+        "Apresentação de @chefwwill e @chefejufernandes",
+        "Compromisso com a experiência gastronômica"
+      ]
+    },
+    {
+      "nome": "Localização",
+      "slug": "/localizacao",
+      "objetivo": "Facilitar a chegada ao restaurante e apresentar endereço, mapa e horários de funcionamento.",
+      "secoes_sugeridas": [
+        "Endereço completo",
+        "Botão para abrir o Google Maps",
+        "Horários de funcionamento",
+        "Informações de estacionamento e acessibilidade"
+      ]
+    },
+    {
+      "nome": "Reserva",
+      "slug": "/reserva",
+      "objetivo": "Facilitar pedidos de reserva pelo WhatsApp sem simular um sistema de reservas automatizado.",
+      "secoes_sugeridas": [
+        "Texto breve sobre reservas",
+        "Botão principal para WhatsApp",
+        "Mensagem inicial sugerida para reserva",
+        "Endereço e horário de funcionamento"
+      ]
+    }
+  ],
+  "identidade_visual": {
+    "conceito": "Gastronomia autoral sofisticada que une o mar e a terra, equilibrando uma linguagem urbana e contemporânea com referências naturais e marinhas.",
+    "estilo": [
+      "Contemporâneo",
+      "Minimalista",
+      "Editorial gastronômico",
+      "Sofisticado sem excesso de ornamentos",
+      "Contraste entre superfícies escuras e tons naturais"
+    ],
+    "paleta": {
+      "preto_matte": {
+        "hex": "#121212",
+        "uso": "Fundo principal, áreas de destaque e elementos de apoio."
+      },
+      "chumbo_profundo": {
+        "hex": "#1A1A1A",
+        "uso": "Cards escuros, seções secundárias e variações de fundo."
+      },
+      "areia_off_white": {
+        "hex": "#F4EBE1",
+        "uso": "Texto sobre fundos escuros, áreas de leitura e superfícies claras."
+      },
+      "verde_sálvia": {
+        "hex": "#C5D1C6",
+        "uso": "Subtítulos, etiquetas, bordas discretas e pequenos detalhes."
+      },
+      "coral_salmao": {
+        "hex": "#D88C81",
+        "uso": "Botões de reserva, chamadas para ação e destaques pontuais."
+      }
+    },
+    "tipografia": {
+      "titulos": "Preferir uma fonte serifada elegante, com boa legibilidade, semelhante ao estilo editorial de Playfair Display ou Cinzel.",
+      "corpo": "Preferir uma fonte sem serifa limpa e legível para parágrafos, navegação e botões.",
+      "regra": "Não usar excesso de fontes, espaçamentos ou letras maiúsculas que prejudiquem a leitura."
+    },
+    "fotografia": {
+      "direcao": "Fotografia gastronômica editorial de alta qualidade, iluminação dramática controlada, foco no empratamento e equilíbrio de tons quentes e escuros.",
+      "fontes_permitidas": [
+        "Unsplash",
+        "Pexels",
+        "Pixabay"
+      ],
+      "regras": [
+        "Usar apenas imagens de bancos gratuitos com licença compatível com o uso no site.",
+        "Preferir imagens relacionadas a frutos do mar, carnes, pratos autorais, drinks e ambientes gastronômicos contemporâneos.",
+        "Não apresentar fotografias de banco de imagens como se fossem fotografias reais do Tuna Mar e Terra.",
+        "Quando necessário, usar imagens apenas como referência ilustrativa e substituir pelas fotos oficiais quando forem fornecidas.",
+        "Usar imagens otimizadas e texto alternativo descritivo."
+      ]
+    },
+    "layout": {
+      "header": "Header escuro, elegante e responsivo, com marca em tipografia refinada e navegação para as seis páginas.",
+      "hero": "Título expressivo, slogan, fotografia gastronômica e chamadas claras para cardápio e reservas.",
+      "cards": "Cards discretos em tons escuros ou areia, com cantos moderadamente arredondados e bordas sutis.",
+      "botoes": "Botões de alto contraste; usar coral para ações principais sem exagerar nos destaques.",
+      "rodape": "Incluir telefone/WhatsApp, Instagram, endereço, horário e link do Google Maps.",
+      "responsividade": "Priorizar experiência mobile, leitura confortável, imagens bem recortadas e alvos de toque acessíveis."
+    }
+  },
+  "cardapio_provisorio": {
+    "estado": "provisorio_nao_oficial",
+    "aviso_visivel": "Cardápio ilustrativo provisório. Os pratos e imagens desta página são referências visuais e não representam necessariamente os itens disponíveis no restaurante. Consulte o restaurante para confirmar o cardápio atual.",
+    "diretriz_principal": "Usar categorias e exemplos genéricos inspirados na gastronomia regional de Mossoró e do Rio Grande do Norte, com foco em frutos do mar, carnes, pratos autorais, opções vegetarianas, sobremesas e bebidas.",
+    "categorias_sugeridas": [
+      {
+        "nome": "Entradas e pequenas porções",
+        "descricao": "Sugestões ilustrativas de entradas para compartilhar.",
+        "itens_exemplo": [
+          "Entradas da casa — sugestão ilustrativa",
+          "Pequenas porções para compartilhar — sugestão ilustrativa"
+        ]
+      },
+      {
+        "nome": "Frutos do mar",
+        "descricao": "Categoria para destacar preparos com peixes e frutos do mar; confirmar os pratos disponíveis com o restaurante.",
+        "itens_exemplo": [
+          "Seleção de frutos do mar — sugestão ilustrativa",
+          "Peixe preparado ao estilo da casa — sugestão ilustrativa",
+          "Frutos do mar para compartilhar — sugestão ilustrativa"
+        ]
+      },
+      {
+        "nome": "Carnes e grelhados",
+        "descricao": "Sugestões visuais de pratos com carnes e grelhados.",
+        "itens_exemplo": [
+          "Carne grelhada com acompanhamentos — sugestão ilustrativa",
+          "Prato de carne ao estilo regional — sugestão ilustrativa"
+        ]
+      },
+      {
+        "nome": "Experiências mar e terra",
+        "descricao": "Categoria conceitual para apresentar a combinação entre sabores do mar e da terra, sem afirmar que um prato específico faz parte do menu oficial.",
+        "itens_exemplo": [
+          "Combinação de sabores do mar e da terra — sugestão ilustrativa",
+          "Prato autoral para compartilhar — sugestão ilustrativa"
+        ]
+      },
+      {
+        "nome": "Opções vegetarianas",
+        "descricao": "Categoria mencionada nas informações do estabelecimento; confirmar receitas e disponibilidade.",
+        "itens_exemplo": [
+          "Prato vegetariano da estação — sugestão ilustrativa",
+          "Legumes preparados ao estilo da casa — sugestão ilustrativa"
+        ]
+      },
+      {
+        "nome": "Sobremesas",
+        "descricao": "Exemplos visuais genéricos de sobremesas.",
+        "itens_exemplo": [
+          "Sobremesa da casa — sugestão ilustrativa",
+          "Doce regional — sugestão ilustrativa"
+        ]
+      },
+      {
+        "nome": "Drinks e bebidas",
+        "descricao": "Categoria para coquetéis, cervejas, vinhos, café e outras bebidas informadas pelo restaurante.",
+        "itens_exemplo": [
+          "Coquetel com frutas tropicais — sugestão ilustrativa",
+          "Drink autoral — sugestão ilustrativa",
+          "Seleção de bebidas — sugestão ilustrativa"
+        ]
+      }
+    ],
+    "regras": [
+      "Não inventar nem exibir preços.",
+      "Não afirmar que pratos ilustrativos são itens oficiais ou estão disponíveis no dia.",
+      "Não inventar ingredientes, tamanhos, acompanhamentos, receitas, promoções ou disponibilidade.",
+      "Não incluir avaliações ou depoimentos fictícios.",
+      "Usar fotos genéricas de bancos gratuitos e identificá-las internamente no conteúdo como ilustrativas.",
+      "Substituir esta estrutura assim que o restaurante fornecer o cardápio oficial."
+    ]
+  },
+  "funcionalidades": {
+    "whatsapp": {
+      "habilitado": true,
+      "numero": "+55 84 98170-6656",
+      "link_base": "https://wa.me/5584981706656",
+      "locais": [
+        "Header",
+        "Hero da página inicial",
+        "Página Cardápio",
+        "Página Reserva",
+        "Rodapé"
+      ],
+      "mensagens_sugeridas": {
+        "reserva": "Olá! Gostaria de consultar a disponibilidade para uma reserva no Tuna Mar e Terra.",
+        "cardapio": "Olá! Gostaria de consultar o cardápio atualizado do Tuna Mar e Terra.",
+        "informacoes": "Olá! Gostaria de mais informações sobre o Tuna Mar e Terra."
+      },
+      "observacao": "Os botões devem abrir uma conversa no WhatsApp; não afirmar que uma reserva foi confirmada automaticamente."
+    },
+    "instagram": {
+      "habilitado": true,
+      "usuario": "@tunamareterra",
+      "url": "https://www.instagram.com/tunamareterra/"
+    },
+    "google_maps": {
+      "habilitado": true,
+      "url": "https://maps.app.goo.gl/kscL3wqvzmc9gQf47",
+      "exibir_botao_como_chegar": true,
+      "integracao_de_mapa_embutido": "Opcional; usar apenas se possível validar o endereço e a incorporação. O link fornecido deve continuar disponível como alternativa."
+    },
+    "avaliacoes_google": {
+      "habilitado": false,
+      "estado": "não configurado",
+      "observacao": "Não exibir estrelas, nota média, quantidade de avaliações ou comentários como dados dinâmicos sem integração e verificação reais. Uma futura integração pode exigir Google Places API, Place ID, configuração no Google Cloud e observância dos termos aplicáveis. Nunca expor chaves secretas no código do navegador."
+    },
+    "acessibilidade": {
+      "habilitado": true,
+      "regras": [
+        "Garantir contraste suficiente entre texto e fundo.",
+        "Usar navegação acessível por teclado e foco visível.",
+        "Adicionar textos alternativos relevantes às imagens.",
+        "Usar rótulos claros em formulários e botões.",
+        "Não depender exclusivamente de cor para comunicar estados."
+      ]
+    },
+    "seo": {
+      "idioma": "pt-BR",
+      "palavras_chave_sugeridas": [
+        "Tuna Mar e Terra",
+        "restaurante em Mossoró RN",
+        "frutos do mar em Mossoró",
+        "restaurante autoral em Mossoró",
+        "carnes e frutos do mar",
+        "reservas Tuna Mar e Terra"
+      ],
+      "regras": [
+        "Criar título e meta description exclusivos por página.",
+        "Usar o nome Tuna Mar e Terra e a localização de forma natural.",
+        "Não prometer ranqueamento nem inserir palavras-chave artificialmente.",
+        "Não criar dados estruturados para informações não confirmadas."
+      ]
+    }
+  },
+  "tom_de_voz": {
+    "caracteristicas": [
+      "Elegante",
+      "Acolhedor",
+      "Contemporâneo",
+      "Sensorial sem exageros",
+      "Direto e confiável"
+    ],
+    "preferir": [
+      "Descrever a experiência gastronômica com linguagem natural.",
+      "Valorizar a proposta mar e terra e o ambiente acolhedor.",
+      "Usar chamadas claras para conhecer o cardápio, consultar informações e reservar."
+    ],
+    "evitar": [
+      "Superlativos não comprovados, como 'o melhor de Mossoró'.",
+      "História do restaurante, prêmios, certificações ou biografias não fornecidos.",
+      "Preços, pratos oficiais, avaliações ou disponibilidade inventados.",
+      "Promessas de reserva confirmada sem contato com a equipe."
+    ]
+  },
+  "regras_de_implementacao": [
+    "Usar este arquivo como fonte principal dos dados do cliente durante a criação do site.",
+    "Criar as seis páginas: Home, Cardápio, Nosso Ambiente, Sobre, Localização e Reserva.",
+    "Manter a identidade visual consistente com a paleta e a direção de arte definidas.",
+    "Não criar nem simular uma logomarca oficial se nenhum arquivo de logo tiver sido fornecido; usar temporariamente o nome do restaurante em tipografia elegante.",
+    "Manter o conteúdo e os links em português brasileiro, salvo pedido expresso em contrário.",
+    "Fazer o site responsivo e mobile-first.",
+    "Não inventar dados ausentes nem transformar exemplos provisórios em informações oficiais.",
+    "Não instalar dependências nem alterar arquivos fora do escopo solicitado sem necessidade.",
+    "Verificar se todos os botões de WhatsApp, Instagram e Google Maps funcionam.",
+    "Antes de publicar, revisar contraste, navegação, links, textos alternativos, horários, endereço e o aviso do cardápio provisório."
+  ]
+}
