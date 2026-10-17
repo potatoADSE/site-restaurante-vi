@@ -1,8 +1,10 @@
+
 import Image from 'next/image'
 import Link from 'next/link'
 import {
   ArrowDownRight,
   ArrowRight,
+  ArrowUpRight,
   Clock3,
   Music2,
   Utensils,
